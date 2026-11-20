@@ -11,3 +11,4 @@ while True:
         break
     else:
         print("you have entered an in valid operation")
+        print("please enter yes or no(y/n)")
